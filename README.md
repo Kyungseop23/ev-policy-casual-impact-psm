@@ -2,7 +2,7 @@
 ## A Propensity Score Analysis
 
 ## Key Results
-![ATT - CI results](./images/policy_causal_impact_psm_result)
+![ATT - CI results](./images/policy_causal_impact_psm_result.png)
 
 EV supportive state policies have a clear, positive, and causal impact on Ev registration growth in the U.S.
 Using **Propensity Score Matching (PSM)** to control for confounders such as GDP, charging infrastructure, political leaning, and $CO_2$.
